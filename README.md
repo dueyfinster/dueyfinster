@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Neil
+- 🔭 I’m currently working on dotfiles, AOC amongst others
+- 🌱 I’m currently learning Phoenix (web framework in Elixir)
 
 <!--
 **dueyfinster/dueyfinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
